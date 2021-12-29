@@ -7,7 +7,7 @@
 #define  BUFSIZE 256
 
 int main(void) {
-	Engine* ep = NULL;
+    Engine* ep = NULL;
     mxArray* Connectivity = NULL;
     mxArray* result = NULL;
     FILE* fp;
